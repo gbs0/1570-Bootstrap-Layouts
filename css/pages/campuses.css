@@ -1,0 +1,7 @@
+/* TODO: Build layout for campuses page */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 16px;
+  width: 800px;
+}
